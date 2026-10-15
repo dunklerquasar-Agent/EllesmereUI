@@ -1,0 +1,9 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 16001
+## Title: |cff0cd29fGearScorePlates|r
+## Notes: Inspected average item level on the EllesmereUI target, focus and visible party/raid frames. Own section in the EllesmereUI options panel (/gsp), and it runs standalone with the /gsp chat commands when EllesmereUI is absent.
+## Author: personal build
+## Version: 1.6.0
+## SavedVariables: GearScorePlatesDB
+## OptionalDeps: EllesmereUI
+
+GearScorePlates.lua
