@@ -110,3 +110,4 @@ UnitFrames_Options\SharedCastAuras_Options.lua
 UnitFrames_Options\UnitPreview_Options.lua
 EUI_UnitFrames_Options.lua
 EUI_PlayerAuraBars_ManagerPages.lua
+EUI_AutoToast_Options.lua

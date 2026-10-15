@@ -1,0 +1,12 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 16001
+## Title: |cff0cd29fEllesmereUI|r AutoToast
+## Category: |cff0cd29fEllesmere|rUI
+## Group: EllesmereUI
+## Notes: Optional social queue notifications for guild members and friends.
+## Author: Ellesmere
+## Version: 1.0.0
+## Dependencies: EllesmereUI
+## SavedVariables: EllesmereUIAutoToastDB
+## IconTexture: Interface\\AddOns\\EllesmereUI\\media\\eg-logo.tga
+
+EllesmereUIAutoToast.lua

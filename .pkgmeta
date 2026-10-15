@@ -22,6 +22,8 @@ move-folders:
   EllesmereUI/EllesmereUIRaidFrames: EllesmereUIRaidFrames
   EllesmereUI/EllesmereUIResourceBars: EllesmereUIResourceBars
   EllesmereUI/EllesmereUIUnitFrames: EllesmereUIUnitFrames
+  # Optional social queue notifications for guild members and friends.
+  EllesmereUI/EllesmereUIAutoToast: EllesmereUIAutoToast
 
 externals:
   Libs/LibStub:
