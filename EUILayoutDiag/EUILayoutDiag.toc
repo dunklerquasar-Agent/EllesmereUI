@@ -1,0 +1,9 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 16001
+## Title: EUI Layout Diag
+## Notes: Read-only report of the EllesmereUI profile, spec and layout assignments for this character (/elayout). Writes nothing, changes nothing.
+## Author: personal build
+## Version: 1.0.1
+## Category: Development
+## OptionalDeps: EllesmereUI
+
+EUILayoutDiag.lua

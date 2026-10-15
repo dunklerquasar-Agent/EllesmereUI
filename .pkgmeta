@@ -22,6 +22,12 @@ move-folders:
   EllesmereUI/EllesmereUIRaidFrames: EllesmereUIRaidFrames
   EllesmereUI/EllesmereUIResourceBars: EllesmereUIResourceBars
   EllesmereUI/EllesmereUIUnitFrames: EllesmereUIUnitFrames
+  # Private addons kept in the repo root but shipped as their own AddOn
+  # folders (the packager otherwise nests them inside the EllesmereUI addon,
+  # where their .toc files are never loaded).
+  EllesmereUI/EllesmereUIAutoToast: EllesmereUIAutoToast
+  EllesmereUI/GearScorePlates: GearScorePlates
+  EllesmereUI/EUILayoutDiag: EUILayoutDiag
 
 externals:
   Libs/LibStub:
